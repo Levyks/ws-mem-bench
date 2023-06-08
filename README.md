@@ -1,3 +1,7 @@
+# ws-mem-bench
+
+All tests were made with the server running in a docker container with 512M of ram.
+
 ### js-socketio-node:
 {
   numberOfRoomsCreated: 4386,
